@@ -1,2 +1,2 @@
-#creating and using node for practices and projects
-##step by step
+creating and using node for practices and projects 
+step by step
